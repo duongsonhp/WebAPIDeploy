@@ -1,0 +1,32 @@
+﻿[5/6/2024 8:49:07 AM] connectionString = Server=127.0.0.1;Database=college;User Id=sondh;Password=123abc@A;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=False
+[5/6/2024 8:49:07 AM] Start GetById/11
+[5/6/2024 8:49:07 AM] _studentService != null? True
+[5/6/2024 8:49:07 AM] _studentRepository != null? True
+[5/6/2024 8:49:07 AM] Entities != null? True
+[5/6/2024 8:49:10 AM] entity != null? True
+[5/6/2024 8:49:30 AM] connectionString = Server=127.0.0.1;Database=college;User Id=sondh;Password=123abc@A;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=False
+[5/6/2024 8:49:30 AM] Start GetById/10
+[5/6/2024 8:49:30 AM] _studentService != null? True
+[5/6/2024 8:49:30 AM] _studentRepository != null? True
+[5/6/2024 8:49:30 AM] Entities != null? True
+[5/6/2024 8:49:30 AM] entity != null? True
+[5/6/2024 8:50:24 AM] connectionString = Server=127.0.0.1;Database=college;User Id=sondh;Password=123abc@A;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=False
+[5/6/2024 8:50:40 AM] connectionString = Server=127.0.0.1;Database=college;User Id=sondh;Password=123abc@A;Trusted_Connection=True;TrustServerCertificate=True;Integrated Security=False
+[5/6/2024 8:50:40 AM] Start GetById/18
+[5/6/2024 8:50:40 AM] _studentService != null? True
+[5/6/2024 8:50:40 AM] _studentRepository != null? True
+[5/6/2024 8:50:40 AM] Entities != null? True
+[5/6/2024 8:50:40 AM] entity != null? True
+[5/6/2024 10:48:34 AM] Start GetById/12
+[5/6/2024 10:48:34 AM] _studentService != null? True
+[5/6/2024 10:48:34 AM] _studentRepository != null? True
+[5/6/2024 10:48:34 AM] Entities != null? True
+[5/6/2024 10:48:38 AM] entity != null? True
+[5/6/2024 10:50:10 AM] _studentRepository != null? True
+[5/6/2024 10:50:10 AM] Entities != null? True
+[5/6/2024 10:50:28 AM] Start GetById/18
+[5/6/2024 10:50:28 AM] _studentService != null? True
+[5/6/2024 10:50:28 AM] _studentRepository != null? True
+[5/6/2024 10:50:28 AM] Entities != null? True
+[5/6/2024 10:50:28 AM] entity != null? True
+[5/6/2024 10:50:46 AM] Entities != null? True
